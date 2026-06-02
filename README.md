@@ -4,7 +4,7 @@
 
 ---
 
-<p align="center"><font size="20"><b>Welcome to XiGuaDataLab!</b></font></p>
+<p align="center"><font size="30"><b>Welcome to XiGuaDataLab!</b></font></p>
 
 <p align="center"><font size="16"><b><i>👋 I'm Leon</i></b></font></p>
 
