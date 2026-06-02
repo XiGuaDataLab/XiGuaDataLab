@@ -1,6 +1,6 @@
 # 👋 Welcome to XiGuaDataLab
 
-<img src="./XiGuaDataLab.gif" alt="XiGuaDataLab Welcome" width="100%">
+<img src="./XiGuaDataLab.gif" alt="XiGuaDataLab Welcome" height="50%">
 
 ---
 
