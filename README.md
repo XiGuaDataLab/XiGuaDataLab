@@ -1,14 +1,20 @@
-# 👋 Welcome to XiGuaDataLab
+<h1 align="center">👋 Welcome to XiGuaDataLab</h1>
 
-<img src="./XiGuaDataLab.gif" alt="XiGuaDataLab Welcome" width="50%">
+<p align="center">
+  <img src="./XiGuaDataLab.gif" alt="XiGuaDataLab Welcome" width="50%">
+</p>
 
 ---
 
-## 🚀 About Us
+<h2 align="center">🚀 About Us</h2>
 
-We are **XiGuaDataLab** — a data-driven lab focused on exploring, analyzing, and visualizing data to uncover insights and drive innovation.
+<p align="center">
+  We are <strong>XiGuaDataLab</strong> — a data-driven lab focused on exploring, analyzing, and visualizing data to uncover insights and drive innovation.
+</p>
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
 
 | Category | Technologies |
 |----------|-------------|
@@ -19,14 +25,16 @@ We are **XiGuaDataLab** — a data-driven lab focused on exploring, analyzing, a
 | **Big Data** | Spark, Hadoop, Hive |
 | **Databases** | MySQL, PostgreSQL, MongoDB |
 
-## 📊 GitHub Stats
+</p>
+
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=XiGuaDataLab&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiGuaDataLab&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
-## 📫 Connect With Us
+<h2 align="center">📫 Connect With Us</h2>
 
 <p align="center">
   <a href="https://github.com/XiGuaDataLab">
