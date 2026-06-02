@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="./XiGuaDataLab.gif" alt="XiGuaDataLab Welcome" width="50%">
+  <img src="./XiGuaDataLab.gif" alt="XiGuaDataLab Welcome">
 </p>
-
----
 
 <p align="center"><font size="7"><b>Welcome to XiGuaDataLab!</b></font></p>
 
