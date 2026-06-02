@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome to XiGuaDataLab</h1>
+<h1 align="center">👋 Welcome to XiGuaDataLab, I'm Leon</h1>
 
 <p align="center">
   <img src="./XiGuaDataLab.gif" alt="XiGuaDataLab Welcome" width="50%">
@@ -14,18 +14,21 @@
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<p align="center">
-
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | Python, SQL, R |
-| **Data Analysis** | Pandas, NumPy, SciPy |
-| **Visualization** | Matplotlib, Seaborn, Plotly |
-| **Machine Learning** | Scikit-learn, TensorFlow, PyTorch |
-| **Big Data** | Spark, Hadoop, Hive |
-| **Databases** | MySQL, PostgreSQL, MongoDB |
-
-</p>
+<div align="center">
+<table>
+  <thead>
+    <tr><th>Category</th><th>Technologies</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><strong>Languages</strong></td><td>Python, SQL, R</td></tr>
+    <tr><td><strong>Data Analysis</strong></td><td>Pandas, NumPy, SciPy</td></tr>
+    <tr><td><strong>Visualization</strong></td><td>Matplotlib, Seaborn, Plotly</td></tr>
+    <tr><td><strong>Machine Learning</strong></td><td>Scikit-learn, TensorFlow, PyTorch</td></tr>
+    <tr><td><strong>Big Data</strong></td><td>Spark, Hadoop, Hive</td></tr>
+    <tr><td><strong>Databases</strong></td><td>MySQL, PostgreSQL, MongoDB</td></tr>
+  </tbody>
+</table>
+</div>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
