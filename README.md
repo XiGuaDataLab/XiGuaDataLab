@@ -4,26 +4,26 @@
 
 ---
 
-<p align="center"><font size="7"><b>Welcome to XiGuaDataLab!</b></font></p>
+<p align="center"><font size="20"><b>Welcome to XiGuaDataLab!</b></font></p>
 
-<p align="center"><font size="6"><b><i>👋 I'm Leon</i></b></font></p>
+<p align="center"><font size="16"><b><i>👋 I'm Leon</i></b></font></p>
 
-<p align="center"><font size="6"><i>
+<p align="center"><font size="14"><i>
   This is my small place for casual learning and tinkering.
 </font></p>
 
-<p align="center"><font size="5"><b>🛠️ Tech Stack</b></font></p>
+<p align="center"><font size="14"><b>🛠️ Tech Stack</b></font></p>
 
-<p align="center"><font size="4"><i>
+<p align="center"><font size="12"><i>
   I like and am good at: <br><strong>Data Analysis, Visualization, and Machine Learning.</strong></i>
 </font></p>
 
-<p align="center"><font size="4"><i>
+<p align="center"><font size="12"><i>
   Tools I am familiar with and use: <br><strong>Python, R, SQL, and more.</strong></i>
 </font></p>
   
 
-<p align="center"><font size="5"><b>📫 Connect With Us</b></font></p>
+<p align="center"><font size="14"><b>📫 Connect With Us</b></font></p>
 
 <p align="center">
   <a href="https://github.com/XiGuaDataLab">
