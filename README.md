@@ -2,15 +2,26 @@
   <img src="./XiGuaDataLab.gif" alt="XiGuaDataLab Welcome" width="50%">
 </p>
 
-<p align="center"><font size="7"><b>👋 Welcome to XiGuaDataLab</b></font></p>
+---
 
-<p align="center"><font size="5"><b>🚀 About Us</b></font></p>
+<p align="center"><font size="7"><b>Welcome to XiGuaDataLab!</b></font></p>
 
-<p align="center">
-  We are <strong>XiGuaDataLab</strong> — a data-driven lab focused on exploring, analyzing, and visualizing data to uncover insights and drive innovation.
-</p>
+<p align="center"><font size="6"><b><i>👋 I'm Leon</i></b></font></p>
+
+<p align="center"><font size="6"><i>
+  This is my small place for casual learning and tinkering.
+</font></p>
 
 <p align="center"><font size="5"><b>🛠️ Tech Stack</b></font></p>
+
+<p align="center"><font size="4"><i>
+  I like and am good at: <br><strong>Data Analysis, Visualization, and Machine Learning.</strong></i>
+</font></p>
+
+<p align="center"><font size="4"><i>
+  Tools I am familiar with and use: <br><strong>Python, R, SQL, and more.</strong></i>
+</font></p>
+  
 
 <p align="center"><font size="5"><b>📫 Connect With Us</b></font></p>
 
@@ -20,8 +31,8 @@
   </a>
 </p>
 
----
 
+---
 <p align="center">
-  <i>💡 Data is the new oil. Let's refine it together.</i>
+  <i>💡 Gain insight into the essence of the world through data.</i>
 </p>
